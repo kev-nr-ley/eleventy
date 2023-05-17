@@ -1,0 +1,17 @@
+{
+  "name": "eleventytutorial",
+  "version": "1.0.0",
+  "description": "A tutorial for the Eleventy static site generator",
+  "main": "index.js",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Zell Liew",
+  "license": "MIT"
+
+  
+}
